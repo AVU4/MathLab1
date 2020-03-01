@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MathLab1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MathLab1_jar</output-path>
+    <root id="archive" name="MathLab1.jar">
+      <element id="module-output" name="MathLab1" />
+      <element id="module-source" name="MathLab1" />
+      <element id="file-copy" path="$PROJECT_DIR$/example.txt" />
+    </root>
+  </artifact>
+</component>
